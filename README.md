@@ -61,7 +61,7 @@ Estos conocimientos no serán reforzados en clase, se recomienda a cada estudian
          * Katherine (Sistema de reservación para centro de salud)
          * Jessica (Sistema de pedidos a domicilio para tiendas y super mercados)
 
- ### Clase 3 -  Paradigmas del desarrollo de software (31/10/2016)
+### Clase 3 -  Paradigmas del desarrollo de software (31/10/2016)
 
   * **Prerequisitos para esta clase** (Estas tareas las deben completar en casa antes de la clase)
     * Para los que necesiten reforzar conociemitos sobre Git pueden pedirme el tutorial sobre Git y ver hasta el Capítulo 4 (60 min aprox) - Si desean aprender la interfaz gráfica de Github pueden ver el Capítulo 5.
