@@ -65,8 +65,10 @@ Estos conocimientos no serán reforzados en clase, se recomienda a cada estudian
 
   * **Prerequisitos para esta clase** (Estas tareas las deben completar en casa antes de la clase)
     * Para los que necesiten reforzar conociemitos sobre Git pueden pedirme el tutorial sobre Git y ver hasta el Capítulo 4 (60 min aprox) - Si desean aprender la interfaz gráfica de Github pueden ver el Capítulo 5.
-    * Traer el documento donde se explique de manera clara cuales son las características y funcionalidades del sistema que el grupo quiere desarrollar. Deben subir el documento en este repositorio de Git [aquí]()
-    * El documento debe contener loa siguiente información
+    * Traer el documento donde se explique de manera clara cuales son las características y funcionalidades del sistema que el grupo quiere desarrollar. 
+    Deben aceptar la invitación a la clase [aquí](https://classroom.github.com/classrooms/23042454-tecnicas-de-analisis-y-diseno-de-sistemas-informaticos)
+    Deben subir el documento en este repositorio de Git [aquí](https://classroom.github.com/group-assignment-invitations/9896d088e7cd5cefa7fb606b0ed22329)
+    * El documento debe contener la siguiente información
       * Tema
       * Descripción del problema
       * Alcance (nacional, regional, provincial, ciudad, barrio, universidad, etc.)
