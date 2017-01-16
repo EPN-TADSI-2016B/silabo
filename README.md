@@ -100,7 +100,7 @@ Estos conocimientos no serán reforzados en clase, se recomienda a cada estudian
     * Diagramas de secuencia
     * Prototipos
 
-### Clase 14 - Aplicación de SCRUM
+### Clase 14 - Aplicación de SCRUM (23/01/2017)
   * Para esta clase deben venir recordando lo que se vió sobre SCRUM.
     * Qué son las historias de usuario y una plantilla para elaborarlas. Pueden ver una opción de plantillas y ejemplos [aquí](https://github.com/EPN-TADSI-2016B/Clase-14-Aplicacion-de-SCRUM/tree/master/Historias%20de%20Usuario).
     * Deben tener claro que es SCRUM en que se basa:
