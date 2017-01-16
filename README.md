@@ -90,8 +90,8 @@ Estos conocimientos no serán reforzados en clase, se recomienda a cada estudian
 
 ### Clase 13 - Diseño de interfaz de usuario (16/01/2017)
   * Realizar los prototipos de las interfaces de los sistemas que están desarrollando
-  * Los diagramas tienen que ser funcionales, interactivos, lo más cercanos a la interfaz final.
-  * Se revisará avences semanales de estos prototipos.
+  * Los diagramas tienen que ser funcionales, interactivos, lo más cercanos a la interfaz final. Ejemplo [aquí](https://github.com/EPN-TADSI-2016B/Clase-13-Diseno-Interfaz/blob/master/PryBiciqRectificado.pdf)
+  * Se revisará avances semanales de estos prototipos.
   * **El 06/02/2017 será la fecha final de entrega de todas las fases corregidas de los sistemas que están desarrollando.**
     * Requerimientos
     * Casos de uso
