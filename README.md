@@ -43,23 +43,28 @@ Estos conocimientos no serán reforzados en clase, se recomienda a cada estudian
          * Bryan (Sistema de creacion de grupos de estudio con psosibilidad e mostrar horarios de disponibilidad)
          * Santiago (Reservación de canchas deportivas)
          * Alcivar (Sistema de notificacion de obras publicas)
+         * **DESARROLLADOR** Grupo 3
 
-       * Grupo 2 (Sistema de colaboracion para localizar mascotas)
+       * Grupo 2 (Sistema de administración para centros infantiles)
          * Ruben (sistema de automatizacion de zona azul)
          * Jean Carlos (Sistema de colaboracion para localizar mascotas)
          * Alexander (Sistema de gestión de guarderias)
          * Alejandro (Sistema de control de pasajeros de buses)
+         * **DESARROLLADOR** Grupo 4
 
        * Grupo 3 (Sistema de reservas para el centro médico de la Poli)
          * Oscar (Juego con preguntas del inglés)
          * Gabriel (sistema de consulta y reserva de rutas de taxi)
          * Jose (Sistema de aulas virtuales)
          * Rommel (Sistema de reservas para el centro médico de la Poli)
+         * **DESARROLLADOR** Grupo 1
+
        * Grupo 4
          * Ricardo (Sistema de quejas y observaciones en al EPN)
          * Kerly (BiciQ y Ejercicios)
          * Katherine (Sistema de reservación para centro de salud)
          * Jessica (Sistema de pedidos a domicilio para tiendas y super mercados)
+         * **DESARROLLADOR** Grupo 2
 
 ### Clase 3 -  Paradigmas del desarrollo de software (31/10/2016)
 
@@ -80,7 +85,32 @@ Estos conocimientos no serán reforzados en clase, se recomienda a cada estudian
     * Presentación de las necesidades de los clientes
     * Determinación de clientes y desarrolladores
 
-<!--### Clase 4 - -->
+### Clase 12 - Diagramas de Secuencia (09/01/2017)
+  * Realizar los diagramas de secuencia de los sistemas que están desarrollando.
+
+### Clase 13 - Diseño de interfaz de usuario (16/01/2017)
+  * Realizar los prototipos de las interfaces de los sistemas que están desarrollando
+  * Los diagramas tienen que ser funcionales, interactivos, lo más cercanos a la interfaz final.
+  * Se revisará avences semanales de estos prototipos.
+  * **El 06/02/2017 será la fecha final de entrega de todas las fases corregidas de los sistemas que están desarrollando.**
+    * Requerimientos
+    * Casos de uso
+    * Diagramas de casos de uso
+    * Diagramas de clases
+    * Diagramas de secuencia
+    * Prototipos
+
+### Clase 14 - Aplicación de SCRUM
+  * Para esta clase deben venir recordando lo que se vió sobre SCRUM.
+    * Qué son las historias de usuario y una plantilla para elaborarlas. 
+    * Deben tener claro que es SCRUM en que se basa:
+      * Roles (Product Owner, Scrum Master, Team). Nombrar quién será el Scrum Master.
+      * Como se elaboran los artefactos (Product Backlog, Sprint Backlog, Burn down chart)
+      * Reuniones (objetivos y preguntas en las reuniones)
+  * La descripción breve del sistema que deben desarrollar es:
+    * Necesito un sistema que me facilite la organización de noches de película en mi familia. La idea es que me permita administrar las películas que me gustan, las que no me gustan las que ya he visto y las que quisiera ver y las que no quisiera ver. Cada miembro de la familia puede registrar sus películas y el sistema debe mostrarme una lista de sugerencias según los gustos de cada usuario.
+
+
       
 ## Deberes/Proyectos
 
