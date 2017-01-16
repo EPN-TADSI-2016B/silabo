@@ -101,6 +101,7 @@ Estos conocimientos no serán reforzados en clase, se recomienda a cada estudian
     * Prototipos
 
 ### Clase 14 - Aplicación de SCRUM (23/01/2017)
+  * Primera presentación de prototipos
   * Para esta clase deben venir recordando lo que se vió sobre SCRUM.
     * Qué son las historias de usuario y una plantilla para elaborarlas. Pueden ver una opción de plantillas y ejemplos [aquí](https://github.com/EPN-TADSI-2016B/Clase-14-Aplicacion-de-SCRUM/tree/master/Historias%20de%20Usuario).
     * Deben tener claro que es SCRUM en que se basa:
@@ -109,6 +110,24 @@ Estos conocimientos no serán reforzados en clase, se recomienda a cada estudian
       * Reuniones (objetivos y preguntas en las reuniones)
   * La descripción breve del sistema que deben desarrollar es:
     * **Necesito un sistema que me facilite la organización de noches de película en mi familia. La idea es que me permita administrar las películas que me gustan, las que no me gustan las que ya he visto y las que quisiera ver y las que no quisiera ver. Cada miembro de la familia puede registrar sus películas y el sistema debe mostrarme una lista de sugerencias según los gustos de cada usuario.**
+    * Sprint 0 - Al final de esta clase deben tener elaborado las historias de usuario, el product backlog, el diseño inicial de la BDD y las tareas del primer sprint.
+
+### Clase 15 - Presentación Sprint 1 y elaboración Sprint 2 (30/01/2017)
+  * Segunda presentación de prototipos
+  * Presentación del Sprint 1 y recibir retroalimentación
+  * En base a la retroalimentación elaborar las tareas para el Sprint 2
+
+### Clase 16 - Presentación Sprint 2 y elaboración de Sprint 3 (06/02/2017)
+  * Presentación final de prototipos
+  * Presentación del Sprint 2 y recibir retroalimentación
+  * En base a la retroalimentación elaborar las tareas para el Sprint 3
+
+### Clase 17 - Presentación Sprint 3 y elaboración de Sprint 4 (13/02/2017)
+  * Presentación del Sprint 3 y recibir retroalimentación
+  * En base a la retroalimentación elaborar las tareas para el Sprint 4
+
+### Clase 18 - Presentación final del sistema (17/02/2017)
+
 
 
       
