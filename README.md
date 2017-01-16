@@ -102,13 +102,13 @@ Estos conocimientos no serán reforzados en clase, se recomienda a cada estudian
 
 ### Clase 14 - Aplicación de SCRUM
   * Para esta clase deben venir recordando lo que se vió sobre SCRUM.
-    * Qué son las historias de usuario y una plantilla para elaborarlas. 
+    * Qué son las historias de usuario y una plantilla para elaborarlas. Pueden ver una opción de plantillas y ejemplos [aquí](https://github.com/EPN-TADSI-2016B/Clase-14-Aplicacion-de-SCRUM/tree/master/Historias%20de%20Usuario).
     * Deben tener claro que es SCRUM en que se basa:
       * Roles (Product Owner, Scrum Master, Team). Nombrar quién será el Scrum Master.
       * Como se elaboran los artefactos (Product Backlog, Sprint Backlog, Burn down chart)
       * Reuniones (objetivos y preguntas en las reuniones)
   * La descripción breve del sistema que deben desarrollar es:
-    * Necesito un sistema que me facilite la organización de noches de película en mi familia. La idea es que me permita administrar las películas que me gustan, las que no me gustan las que ya he visto y las que quisiera ver y las que no quisiera ver. Cada miembro de la familia puede registrar sus películas y el sistema debe mostrarme una lista de sugerencias según los gustos de cada usuario.
+    * **Necesito un sistema que me facilite la organización de noches de película en mi familia. La idea es que me permita administrar las películas que me gustan, las que no me gustan las que ya he visto y las que quisiera ver y las que no quisiera ver. Cada miembro de la familia puede registrar sus películas y el sistema debe mostrarme una lista de sugerencias según los gustos de cada usuario.**
 
 
       
