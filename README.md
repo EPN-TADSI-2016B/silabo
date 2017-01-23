@@ -112,7 +112,7 @@ Estos conocimientos no serán reforzados en clase, se recomienda a cada estudian
       * Ingresar las historias de usuarios en [TAIGA](http://taiga.io)
       * Revisar como se puede integrar Taiga con Github https://tree.taiga.io/support/integrations/github-integration/
   * La descripción breve del sistema que deben desarrollar es:
-    * **Necesito un sistema que me facilite la organización de noches de película en mi familia. La idea es que me permita administrar las películas que me gustan, las que no me gustan las que ya he visto y las que quisiera ver y las que no quisiera ver. Cada miembro de la familia puede registrar sus películas y el sistema debe mostrarme una lista de sugerencias según los gustos de cada usuario. Los Requrimientos mínimos son: **
+    * **Necesito un sistema que me facilite la organización de noches de película en mi familia. La idea es que me permita administrar las películas que me gustan, las que no me gustan las que ya he visto y las que quisiera ver y las que no quisiera ver. Cada miembro de la familia puede registrar sus películas y el sistema debe mostrarme una lista de sugerencias según los gustos de cada usuario. Los Requrimientos mínimos son:**
      * Quisiera que cada miembro de mi familia pueda ingresar información sobre sus películas.
      * No quisiera que los miembros de la familia puedan alterar la información ingresada por otros miembros.
      * Quisiera que los usuarios puedan ver la lista de películas de otros usuarios.
