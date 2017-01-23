@@ -113,7 +113,14 @@ Estos conocimientos no serán reforzados en clase, se recomienda a cada estudian
       * Revisar como se puede integrar Taiga con Github https://tree.taiga.io/support/integrations/github-integration/
   * La descripción breve del sistema que deben desarrollar es:
     * **Necesito un sistema que me facilite la organización de noches de película en mi familia. La idea es que me permita administrar las películas que me gustan, las que no me gustan las que ya he visto y las que quisiera ver y las que no quisiera ver. Cada miembro de la familia puede registrar sus películas y el sistema debe mostrarme una lista de sugerencias según los gustos de cada usuario.**
-    * Sprint 0 - Al final de esta clase deben tener elaborado las historias de usuario, el product backlog, el diseño inicial de la BDD y las tareas del primer sprint.
+     * Quisiera que cada miembro de mi familia pueda ingresar información sobre sus películas.
+     * No quisiera que los miembros de la familia puedan alterar la información ingresada por otros miembros.
+     * Quisiera que los usuarios puedan ver la lista de películas de otros usuarios.
+     * Quisiera que existan notificaciones cada vez que un usuario añada o elimine una película de su lista.
+     * El sistema debe detectar si existen películas en común para poder sugerir la película que veremos la siguiente semana.
+     * Quisiera que sea un programa de escritorio que lo podamos instalar en las computadoras de cada uno y podamos acceder todos a la misma información.
+
+   * Sprint 0 - Al final de esta clase deben tener elaborado las historias de usuario, el product backlog, el diseño inicial de la BDD y las tareas del primer sprint.
 
 ### Clase 15 - Presentación Sprint 1 y elaboración Sprint 2 (30/01/2017)
   * Segunda presentación de prototipos
